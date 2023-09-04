@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0 0 0;
+}
+
+.nome {
+    margin: 0 0 0 50px;
+}
+
+.navbar-content{
+    display: flex;
+    justify-content: right;
+    margin: 0 50px 0 0;
+    flex: 1;
+}
+
+.navbar-content-children {
+    padding: 0 50px 0 0;
+}
