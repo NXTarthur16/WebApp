@@ -1,19 +1,19 @@
 .rodape {
     display: flex;
-    position: absolute;
+    /* position: absolute;
     bottom: 0;
-    width: 100%;
+    width: 100%; */
     border: solid 4px red;
 }
 
-.rodape-column-1 {
+.rodape-column {
     margin: 0 5vh 0 2.5vh;
 }
 
-.titulo-1 {
+.titulo {
     margin: 0 0 1.5vh 0;
 }
 
-.titulo-2 {
+.titulo {
     margin: 0 0 1.5vh 0;
 }

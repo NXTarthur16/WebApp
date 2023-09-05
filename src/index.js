@@ -38,19 +38,25 @@ root.render(
     item1 = {"Senac"}
     item2 = {"Sesc"}
     item3 = {"116128412023.1"}
-    item4 = {"Patrocinadores"}
-    item5 = {"Prefeitura RJ"}
-    item6 = {"Prefeitura Teresópolis"}
+    />
+
+    <Rodape 
+    item0 = {"Patrocinadores"}
+    item1 = {"Prefeitura RJ"}
+    item2 = {"Prefeitura Teresópolis"}
     />
 
     <Rodape 
     item0 = {"Telefone"}
     item1 = {"21972464469"}
     item2 = {"21 96825-0612"}
-    item4 = {"Email"}
-    item5 = {"arthur.p.ferreira07@gmail.com"}
     />
 
+    <Rodape
+    item0 = {"Email"}
+    item1 = {"arthur.p.ferreira07@gmail.com"}
+    />
+    
   </React.StrictMode>
 );
 
